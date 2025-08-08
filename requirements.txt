@@ -1,0 +1,17 @@
+# requirements.txt
+torch
+torchvision
+gradio
+moviepy
+ultralytics
+srt
+pydub
+openai
+requests
+python-dotenv
+bce-python-sdk
+music-dl
+opencv-python
+numpy
+tqdm
+baidu-aip
